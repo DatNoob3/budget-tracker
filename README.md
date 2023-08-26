@@ -1,2 +1,2 @@
-# budget-tracker
-Simple webpage tracking expenses and savings.
+# travel-webpage
+Simple webpage documenting my vacations over the years.
